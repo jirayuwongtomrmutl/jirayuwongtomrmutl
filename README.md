@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A9BDCB&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;Exploring+Ubuntu+%26+System+Admin;Working+with+C,+Java,+and+PHP;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/jirayuwongtom/jirayuwongtom/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Stats" width="100%"/>
 </div>
 
 ###  My Contributions
