@@ -8,6 +8,5 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jirayuwongtomrmutl&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=jirayuwongtomrmutl&style=for-the-badge&color=212121&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
