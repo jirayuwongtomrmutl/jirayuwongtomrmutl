@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jirayuwongtomrmutl/jirayuwongtomrmutl/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub Stats" width="100%"/>
-</div>
-
 ###  My Contributions
 <div align="center">
   <picture>
