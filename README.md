@@ -7,8 +7,3 @@
   </picture>
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jirayuwongtomrmutl&theme=tokyonight&no-frame=true&row=1&column=5" alt="jirayuwongtomrmutl's trophies" />
-  </a>
-</div>
