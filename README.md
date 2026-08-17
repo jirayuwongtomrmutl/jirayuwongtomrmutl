@@ -1,6 +1,6 @@
 ### 📺 Recently Watched Anime
-<!-- START_SECTION:mal -->
-<!-- END_SECTION:mal -->
+<!-- mal:START -->
+<!-- mal:END -->
 
 
 ###  My Contributions
