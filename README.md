@@ -7,3 +7,11 @@
   </picture>
 </div>
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jirayuwongtomrmutl&style=flat-square&color=blue&label=PROFILE+VIEWS" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jirayuwongtomrmutl&theme=tokyonight&hide_border=true" alt="Activity Graph" />
+</div>
+
